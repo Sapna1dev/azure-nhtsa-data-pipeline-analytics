@@ -1,2 +1,16 @@
-# azure-nhtsa-data-pipeline-analytics
-Built a cloud-based data pipeline to ingest raw NHTSA complaint data, transform and store it in Azure, optimize it for large-scale querying, and visualize trends in Power BI. Also integrated external manufacturer data for comparison and analysis.
+## Project Highlights
+
+### Data Pipeline (ADF)
+![ADF Pipeline](adf/pipeline_screenshots/adf_pipeline_run_success.png)
+
+### Azure SQL Table
+![SQL Table](images/sql_complaints_table.png)
+
+### Synapse Query
+![Synapse](synapse/query_results/synapse_external_table_query.png)
+
+### Power BI Dashboard
+![Dashboard](powerbi/dashboard_screenshots/powerbi_dashboard_overview.png)
+
+### Data Model
+![Model](powerbi/dashboard_screenshots/powerbi_data_model.png)
