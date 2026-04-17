@@ -1,0 +1,4 @@
+*.zip
+*.parquet
+*.pbix
+data/raw/
